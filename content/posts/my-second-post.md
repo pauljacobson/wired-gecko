@@ -1,7 +1,7 @@
 ---
 title: "My Second Post"
 date: 2022-06-12T07:29:45+03:00
-draft: true
+draft: false
 ---
 
 This is a second post. Still experimenting with Hugo.
