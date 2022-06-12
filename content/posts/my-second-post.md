@@ -5,3 +5,7 @@ draft: true
 ---
 
 This is a second post. Still experimenting with Hugo.
+
+### These are my favorite vacation spots
+
+{{< vacation_spots >}}
